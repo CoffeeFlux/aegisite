@@ -1,5 +1,5 @@
-@import "variables"
 @import "bootstrap"
+@import "variables"
 @import "bootswatch"
 
 body
@@ -42,7 +42,8 @@ dl.horizontal-wide
 
 #manual-sidebar
   @extend .nav
-  @extend .nav-list
+  @extend .nav-pills
+  @extend .nav-stacked
   @extend .well
   padding-top: 10px
   margin-right: 20px
@@ -51,7 +52,7 @@ dl.horizontal-wide
     line-height: 16px
 
 #markdown-toc
-  @extend .hero-unit
+  @extend .jumbotron
   float: right
   padding: 1em 1em 1em 3em
   margin-right: 0px
