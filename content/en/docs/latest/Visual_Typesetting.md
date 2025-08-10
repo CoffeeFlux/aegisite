@@ -10,8 +10,6 @@ aliases:
 
 {{<todo>}}Screenshots need to be updated {{</todo>}}
 
-**A video tutorial for this feature is available at [the tutorials section]({{< relref "Tutorials" >}}).**
-
 ## Overview
 
 ![video_display](/img/3.2/video_display.png#center)
@@ -19,7 +17,7 @@ aliases:
 ### Play
 
 Play the video and, starting at the currently displayed frame. See
-[Video#playingvideo]({{< relref "Video#playingvideo" >}}) for comments on playing video in Aegisub.
+[Video]({{< relref "Video#playing-video" >}}) for comments on playing video in Aegisub.
 
 ### Play line
 
@@ -72,7 +70,7 @@ You can right click to bring a context menu with other options:
 
 Save PNG snapshot
 : Saves a PNG snapshot of the current frame to the path specified in
-  the [options]({{< relref "options" >}}). This snapshot will be in the real video size, and
+  the [options]({{< relref "options#video" >}}). This snapshot will be in the real video size, and
   WON'T be affected by zooming or aspect ratio overriding.
 
 Copy image to clipboard

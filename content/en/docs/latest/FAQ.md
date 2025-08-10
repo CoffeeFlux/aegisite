@@ -18,7 +18,7 @@ See the [Karaoke Templater tutorials]({{< relref "Automation/Karaoke_Templater/T
 ### Can I create DVD subtitles with Aegisub?
 
 Not directly, but there's a nifty program called
-[MaestroSBT](http://sourceforge.net/projects/maestrosbt/) that can
+[MaestroSBT](https://sourceforge.net/projects/maestrosbt/) that can
 convert SSA to VOBSubs. It does have quite a bunch of restrictions on
 what tags and other things may be used, so reading its manual first is
 advised. Also note that it does not accept ASS - only SSA. You can use
@@ -34,7 +34,7 @@ all the checkboxes (clean script info, VFR transform etc.).
 
 ### I've found a bug!?
 
-Report it on the [bug tracker](http://devel.aegisub.org/). Please
+Report it on the [bug tracker](https://github.com/TypesettingTools/Aegisub/issues). Please
 include as many details as possible in your report! Remember that if a
 bug is not on the bug tracker, it _does not exist_ as far as we are
 concerned.
@@ -42,17 +42,17 @@ concerned.
 ### Why doesn't Aegisub have \<feature X>? \<Program Y> has it!
 
 Quite possibly because we didn't know you wanted it. Request it on the
-[bug tracker](http://devel.aegisub.org/) and see what happens.
+[bug tracker](https://github.com/TypesettingTools/Aegisub/issues) and see what happens.
 
 ### Where can I find more information and/or get help?
 
-For Aegisub-related stuff, the [forums](http://forums.aegisub.org) and
+For Aegisub-related stuff, the [Discord server](https://discord.gg/AZaVyPr) and
 the [IRC channel](irc://irc.rizon.net/aegisub) are good places to ask
-questions. The Aegisub [devel wiki](http://devel.aegisub.org) also
-contains some more obscure information not included in the manual for
-various reasons, and so does the forums.  For general video-related
-questions, [Doom9.org](http://www.doom9.org) and [its
-forums](http://forum.doom9.org) is generally the place to go.
+questions.
+
+For general video-related
+questions, [Doom9.org](https://www.doom9.org) and [its
+forums](https://forum.doom9.org) is generally the place to go.
 
 ### Are there any VSFilter bugs I should know about?
 

@@ -15,7 +15,7 @@ guide characters written along the main text in Japanese, specifically using
 the hiragana phonetic alphabet to describe how the ideographic kanji characters
 should be pronounced. Putting smaller text next to a main line of text is in
 general referred to as [_ruby
-text_](http://en.wikipedia.org/wiki/Ruby_character), but since the
+text_](https://en.wikipedia.org/wiki/Ruby_character), but since the
 implementation discussed here is designed specifically with Japanese furigana
 in mind, the ruby text is also referred to as furigana everywhere.
 
@@ -48,7 +48,7 @@ syllable. You can have multiple number sign syllables in a row, adding up
 multiple timings in that way.
 
 The timings of the individual number sign syllables are still stored in the
-[highlight table]({{< relref "Automation/Lua/Modules/karaskel.lua.md#highlighttable" >}}) of the
+[highlight table]({{< relref "Automation/Lua/Modules/karaskel.lua.md#highlight-table" >}}) of the
 generated syllable structure, but the main timing (`start_time` and `end_time`)
 of the syllable structure reflects only the added-together timings of the
 number sign syllables.

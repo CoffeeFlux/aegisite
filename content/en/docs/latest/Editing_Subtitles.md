@@ -23,7 +23,7 @@ New subtitles
 
 Open subtitles
 : Open an existing subtitles file or import subtitles from a [Matroska
-  container file](http://www.matroska.org).
+  container file](https://www.matroska.org).
 
 Open subtitles with charset
 : Opens subtitles but lets you choose what character set Aegisub will
@@ -50,7 +50,7 @@ Aegisub supports reading the following subtitle formats:
 
 - Advanced Substation Alpha, also known as SSA v4+ (.ass)
 - Substation Alpha v4 (.ssa)
-- [SubRip](http://zuggy.wz.cz/) Text (.srt)
+- [SubRip](https://zuggy.wz.cz/) Text (.srt)
 - MPEG4 Timed Text (limited support at best; broken at worst), also known as
   ISO/IEC 14496-17, MPEG-4 Part 17 or just TTXT (.ttxt)
 - MicroDVD (.sub)
@@ -226,7 +226,7 @@ Some common controls:
 ![Subs_grid_tags](/img/3.2/Subs_grid_tags.png)
 
 The lines have different (configurable) colors representing different
-things; see the [subtitles grid section of the options page]({{< relref "Options#General\_-.3E_Subtitles_grid" >}}) for details on what the colors
+things; see the [subtitles grid section of the options page]({{< relref "Options#subtitle-grid" >}}) for details on what the colors
 mean.
 
 By default, the following columns are visible:
